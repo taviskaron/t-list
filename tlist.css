@@ -59,6 +59,12 @@ h1 {
     flex-direction: column;
 }
 
+.t-listblock .t-icon i {
+    color: #4488aa;
+    font-size: 16pt;
+    cursor: pointer;
+}
+
 .t-listblock .t-icon .social-icons {
     justify-content: flex-end;
     margin-top: auto;
@@ -73,17 +79,6 @@ h1 {
 .t-listblock .t-icon .social-icons i:hover,
 .t-listblock .t-icon i:hover {
     color: #aa0000;
-}
-
-.t-listblock .t-icon i {
-    color: #4488aa;
-    font-size: 16pt;
-    cursor: pointer;
-}
-
-.t-listblock .t-icon img {
-    max-width: 20px;
-    width: auto;
 }
 
 .t-listblock .t-text {
