@@ -2,9 +2,11 @@
 
 ## RU  
 Легковесный сниппет для верстки в три колонки на чистом HTML+CSS.
+Превью на https://taviskaron.github.io/t-list/
 
 ## EN  
-A lightweight vanilla HTML+CSS snippet for easy 3-column layout 
+A lightweight vanilla HTML+CSS snippet for easy 3-column layout.  
+To see it, visit https://taviskaron.github.io/t-list/
 
 ## Скриншоты | Screenshots
 
