@@ -1,9 +1,16 @@
 # t-list
 
+## RU  
 Легковесный сниппет для верстки в три колонки на чистом HTML+CSS.
 
-## Скриншоты
+## EN  
+A lightweight vanilla HTML+CSS snippet for easy 3-column layout 
 
-![На десктопе](https://raw.githubusercontent.com/taviskaron/t-list/master/screenshots/screenshot1.jpg)
+## Скриншоты | Screenshots
 
-![На мобильном устройстве](https://raw.githubusercontent.com/taviskaron/t-list/master/screenshots/screenshot2.jpg)
+![Desktop](https://github.com/taviskaron/t-list/blob/master/screenshots/screenshot-1.png)  
+
+___________________  
+
+
+![Mobile](https://github.com/taviskaron/t-list/blob/master/screenshots/screenshot-2.png)
